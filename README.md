@@ -1,3 +1,5 @@
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d7/bb/79/d7bb796de1bbf16e5b193b12d70e76a7.gif">
+ 
  <div>
    <a href="https://github.com/victortakatsu">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victortakatsu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>

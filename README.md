@@ -1,4 +1,4 @@
-  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d7/bb/79/d7bb796de1bbf16e5b193b12d70e76a7.gif">
+  <img align="right" alt="Coding" width="20" src="https://i.pinimg.com/originals/d7/bb/79/d7bb796de1bbf16e5b193b12d70e76a7.gif">
  
  <div>
    <a href="https://github.com/victortakatsu">
